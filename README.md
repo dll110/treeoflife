@@ -1,6 +1,6 @@
 # treeoflife: analyses utilizing SNAP's tree-of-life data
 
-resources used:
+resources:
 
 data: https://snap.stanford.edu/tree-of-life/data.html
 
