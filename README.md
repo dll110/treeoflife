@@ -1,4 +1,4 @@
-# treeoflife
+# treeoflife: analyses utilizing SNAP's tree-of-life data
 
 resources used:
 
