@@ -1,0 +1,172 @@
+species	domain	group	pub count	nodes	edges	resilience
+Saccharomyces cerevisiae	Eukaryota	Opisthokonta	96,928	6,011	207,622	0.471
+Homo sapiens	Eukaryota	Opisthokonta	16,887,538	16,439	440,135	0.461
+Glycine max	Eukaryota	Viridiplantae	19,004	5,785	89,538	0.457
+Oryza sativa Japonica	Eukaryota	Viridiplantae	1,639	1,787	54,247	0.453
+Bos taurus	Eukaryota	Opisthokonta	328,217	8,615	276,128	0.453
+Sus scrofa	Eukaryota	Opisthokonta	17,660	8,201	143,516	0.45
+Callithrix jacchus	Eukaryota	Opisthokonta	3,486	327	946	0.448
+Rattus norvegicus	Eukaryota	Opisthokonta	1,536,193	9,439	261,737	0.447
+Oryctolagus cuniculus	Eukaryota	Opisthokonta	331,624	292	844	0.447
+Mus musculus	Eukaryota	Opisthokonta	1,399,668	12,498	354,458	0.447
+Magnaporthe grisea	Eukaryota	Opisthokonta	1,192	26	68	0.446
+Oreochromis niloticus	Eukaryota	Opisthokonta	4,060	32	55	0.444
+Aspergillus terreus	Eukaryota	Opisthokonta	1,396	45	138	0.444
+Danio rerio	Eukaryota	Opisthokonta	23,531	7,377	145,449	0.443
+Oryza sativa Indica	Eukaryota	Viridiplantae	1,597	105	224	0.441
+Cavia porcellus	Eukaryota	Opisthokonta	138,133	165	268	0.441
+Solanum lycopersicum	Eukaryota	Viridiplantae	10,259	3,601	32,470	0.44
+Oryzias latipes	Eukaryota	Opisthokonta	2,281	4,134	35,414	0.439
+Mustela putorius	Eukaryota	Opisthokonta	5,403	173	254	0.439
+Physcomitrella patens	Eukaryota	Viridiplantae	1,050	3,190	31,790	0.438
+Gallus gallus	Eukaryota	Opisthokonta	112,314	5,208	70,943	0.437
+Sorghum bicolor	Eukaryota	Viridiplantae	1,775	3,503	26,577	0.435
+Felis catus	Eukaryota	Opisthokonta	131,626	5,285	44,325	0.434
+Giardia lamblia	Eukaryota	Fornicata	2,474	238	453	0.433
+Ailuropoda melanoleuca	Eukaryota	Opisthokonta	2,111	5,034	41,328	0.433
+Schizosaccharomyces pombe	Eukaryota	Opisthokonta	9,409	4,125	47,984	0.431
+Equus caballus	Eukaryota	Opisthokonta	64,851	5,395	45,074	0.43
+Arabidopsis thaliana	Eukaryota	Viridiplantae	45,738	11,256	167,771	0.43
+Solanum tuberosum	Eukaryota	Viridiplantae	7,683	3,239	27,478	0.429
+Vitis vinifera	Eukaryota	Viridiplantae	6,986	3,418	28,243	0.427
+Ixodes scapularis	Eukaryota	Opisthokonta	3,801	2,052	12,610	0.424
+Hordeum vulgare	Eukaryota	Viridiplantae	8,527	50	152	0.424
+Drosophila melanogaster	Eukaryota	Opisthokonta	41,416	10,132	116,906	0.424
+Gorilla gorilla	Eukaryota	Opisthokonta	1,803	5,309	41,774	0.423
+Trypanosoma cruzi	Eukaryota	Euglenozoa	10,781	1,267	5,258	0.422
+Pan troglodytes	Eukaryota	Opisthokonta	8,981	5,166	39,642	0.422
+Caenorhabditis elegans	Eukaryota	Opisthokonta	19,285	8,091	82,152	0.421
+Dictyostelium discoideum	Eukaryota	Amoebozoa	7,004	2,065	24,430	0.42
+Zea mays	Eukaryota	Viridiplantae	27,146	2,849	18,046	0.419
+Macaca mulatta	Eukaryota	Opisthokonta	38,314	5,003	37,070	0.419
+Aspergillus flavus	Eukaryota	Opisthokonta	2,348	1,668	9,044	0.416
+Agrobacterium radiobacter	Bacteria	Proteobacteria	3,188	1,682	10,840	0.414
+Streptomyces griseus	Bacteria	Terrabacteria group	1,208	1,432	9,882	0.413
+Aspergillus fumigatus	Eukaryota	Opisthokonta	6,769	1,537	8,028	0.413
+Tetrahymena thermophila	Eukaryota	Alveolata	1,147	1,093	5,323	0.411
+Streptomyces coelicolor	Bacteria	Terrabacteria group	1,119	1,423	8,372	0.411
+Trichinella spiralis	Eukaryota	Opisthokonta	1,452	1,453	5,511	0.41
+Mycobacterium gilvum	Bacteria	Terrabacteria group	10,015	1,217	9,400	0.41
+Coccidioides immitis	Eukaryota	Opisthokonta	1,290	1,193	4,438	0.41
+Bacillus subtilis 168	Bacteria	Terrabacteria group	1,263	1,494	5,896	0.41
+Bacillus megaterium	Bacteria	Terrabacteria group	2,780	1,300	6,355	0.408
+Leishmania major	Eukaryota	Euglenozoa	2,736	729	2,537	0.407
+Aspergillus niger	Eukaryota	Opisthokonta	5,103	1,279	5,391	0.407
+Leishmania donovani	Eukaryota	Euglenozoa	4,165	655	2,031	0.406
+Burkholderia pseudomallei	Bacteria	Proteobacteria	1,865	1,583	8,485	0.406
+Sinorhizobium meliloti	Bacteria	Proteobacteria	1,586	956	4,182	0.405
+Leishmania braziliensis	Eukaryota	Euglenozoa	18,380	735	2,490	0.405
+Aspergillus oryzae	Eukaryota	Opisthokonta	1,669	1,400	6,125	0.405
+Enterobacter aerogenes	Bacteria	Proteobacteria	1,008	1,529	7,351	0.403
+Leishmania infantum	Eukaryota	Euglenozoa	2,501	725	2,347	0.401
+Cryptococcus neoformans B	Eukaryota	Opisthokonta	1,773	1,134	3,986	0.401
+Bordetella pertussis	Bacteria	Proteobacteria	4,971	1,004	5,716	0.401
+Plasmodium berghei	Eukaryota	Alveolata	4,767	428	1,056	0.4
+Pseudomonas aeruginosa	Bacteria	Proteobacteria	38,172	1,529	8,273	0.399
+Borrelia garinii	Bacteria	Spirochaetes	6,808	186	408	0.399
+Plasmodium vivax	Eukaryota	Alveolata	4,715	462	1,212	0.398
+Streptomyces sp. SirexAAE	Bacteria	Terrabacteria group	3,637	1,397	7,732	0.396
+Rhodobacter capsulatus	Bacteria	Proteobacteria	1,060	1,026	4,844	0.394
+Trypanosoma brucei	Eukaryota	Euglenozoa	6,817	708	3,494	0.393
+Stenotrophomonas maltophilia R5513	Bacteria	Proteobacteria	2,227	719	3,076	0.393
+Vibrio parahaemolyticus	Bacteria	Proteobacteria	2,225	1,260	5,923	0.392
+Pseudomonas syringae syringae	Bacteria	Proteobacteria	2,002	1,316	6,157	0.392
+Penicillium chrysogenum	Eukaryota	Opisthokonta	1,231	1,597	7,358	0.392
+Schistosoma mansoni	Eukaryota	Opisthokonta	9,526	958	3,520	0.391
+Pediculus humanus	Eukaryota	Opisthokonta	1,050	1,710	7,539	0.391
+Plasmodium yoelii	Eukaryota	Alveolata	1,348	404	1,106	0.39
+Aeromonas hydrophila	Bacteria	Proteobacteria	1,653	1,220	5,962	0.39
+Treponema pallidum	Bacteria	Spirochaetes	3,696	664	1,625	0.389
+Salmonella enterica RSK2980	Bacteria	Proteobacteria	45,567	1,226	5,006	0.388
+Chlamydomonas reinhardtii	Eukaryota	Viridiplantae	3,429	1,449	8,207	0.388
+Aedes aegypti	Eukaryota	Opisthokonta	8,483	1,994	8,913	0.387
+Vibrio fischeri	Bacteria	Proteobacteria	1,097	1,074	4,514	0.385
+Sulfolobus islandicus	Archaea	TACK group	2,145	546	2,788	0.385
+Tribolium castaneum	Eukaryota	Opisthokonta	1,343	1,734	8,073	0.384
+Lactobacillus casei	Bacteria	Terrabacteria group	4,753	758	3,162	0.384
+Bombyx mori	Eukaryota	Opisthokonta	6,582	1,732	8,521	0.384
+Plasmodium falciparum	Eukaryota	Alveolata	26,907	1,688	4,634	0.383
+Rhodospirillum rubrum	Bacteria	Proteobacteria	1,365	1,092	5,502	0.382
+Corynebacterium diphtheriae	Bacteria	Terrabacteria group	2,405	617	2,112	0.382
+Neurospora crassa	Eukaryota	Opisthokonta	5,302	1,364	5,028	0.38
+Enterococcus faecalis	Bacteria	Terrabacteria group	9,751	745	2,587	0.38
+Rhodobacter sphaeroides ATCC17025	Bacteria	Proteobacteria	3,925	980	3,730	0.379
+Thalassiobium sp. R2A62	Bacteria	Proteobacteria	205,044	517	821	0.378
+Culex quinquefasciatus	Eukaryota	Opisthokonta	2,815	1,846	8,800	0.376
+Anopheles gambiae	Eukaryota	Opisthokonta	12,397	1,808	7,214	0.376
+Vibrio anguillarum	Bacteria	Proteobacteria	1,204	1,049	4,945	0.375
+Streptococcus suis	Bacteria	Terrabacteria group	1,047	561	1,713	0.375
+Aggregatibacter actinomycetemcomitans	Bacteria	Proteobacteria	2,593	703	2,173	0.375
+Shigella flexneri	Bacteria	Proteobacteria	3,516	1,230	5,039	0.374
+Proteus mirabilis	Bacteria	Proteobacteria	3,330	934	3,709	0.373
+Kluyveromyces lactis	Eukaryota	Opisthokonta	1,451	1,437	5,636	0.371
+Pasteurella multocida	Bacteria	Proteobacteria	1,806	706	2,380	0.37
+Francisella sp. TX077308	Bacteria	Proteobacteria	3,489	552	1,781	0.37
+Ciona intestinalis	Eukaryota	Opisthokonta	1,113	1,372	5,432	0.37
+Apis mellifera	Eukaryota	Opisthokonta	4,156	1,561	6,583	0.369
+Lactobacillus plantarum	Bacteria	Terrabacteria group	1,889	774	2,885	0.368
+Cryptosporidium parvum	Eukaryota	Alveolata	2,545	287	653	0.368
+Flavobacteriaceae bacterium 351910	Bacteria	FCB group	4,471	491	1,624	0.366
+Borrelia afzelii	Bacteria	Spirochaetes	6,808	83	70	0.364
+Mycobacterium leprae	Bacteria	Terrabacteria group	5,447	479	1,464	0.358
+Lactococcus lactis lactis	Bacteria	Terrabacteria group	5,716	542	1,684	0.358
+Klebsiella pneumoniae	Bacteria	Proteobacteria	12,105	773	1,707	0.357
+Candida glabrata	Eukaryota	Opisthokonta	1,309	1,423	5,421	0.356
+Anaplasma phagocytophilum	Bacteria	Proteobacteria	1,005	279	642	0.356
+Neisseria meningitidis	Bacteria	Proteobacteria	8,868	565	1,614	0.355
+Streptococcus sp. 73H25AP	Bacteria	Terrabacteria group	99,893	257	326	0.354
+Streptococcus mutans	Bacteria	Terrabacteria group	8,264	521	1,589	0.354
+Gasterosteus aculeatus	Eukaryota	Opisthokonta	1,040	45	57	0.353
+Aerococcus viridans	Bacteria	Terrabacteria group	77,845	399	587	0.353
+Thiobacillus denitrificans	Bacteria	Proteobacteria	1,082	775	2,553	0.352
+Coxiella burnetii	Bacteria	Proteobacteria	2,111	458	1,291	0.351
+Clostridiales bacterium	Bacteria	Terrabacteria group	32,957	385	1,019	0.35
+Toxoplasma gondii	Eukaryota	Alveolata	12,356	596	1,739	0.349
+Lactobacillus rhamnosus	Bacteria	Terrabacteria group	1,041	969	2,911	0.349
+Synechococcus sp. JA23Ba213	Bacteria	Terrabacteria group	1,292	686	2,034	0.347
+Mycoplasma pneumoniae	Bacteria	Terrabacteria group	2,805	131	275	0.347
+Mycobacterium smegmatis	Bacteria	Terrabacteria group	2,031	1,111	9,148	0.347
+Brucella melitensis	Bacteria	Proteobacteria	1,287	684	1,465	0.346
+Entamoeba histolytica	Eukaryota	Amoebozoa	5,656	641	1,402	0.344
+Borrelia burgdorferi	Bacteria	Spirochaetes	3,168	186	361	0.344
+Acinetobacter baumannii	Bacteria	Proteobacteria	3,979	576	976	0.344
+Ureaplasma parvum	Bacteria	Terrabacteria group	2,244	113	275	0.343
+Streptococcus pyogenes	Bacteria	Terrabacteria group	12,708	468	1,285	0.343
+Helicobacter pylori SouthAfrica7	Bacteria	Proteobacteria	40,918	419	1,010	0.334
+Fusobacterium nucleatum nucleatum	Bacteria	Fusobacteria	2,567	537	1,395	0.331
+Anaplasma marginale StMaries	Bacteria	Proteobacteria	1,155	299	669	0.328
+Listeria innocua	Bacteria	Terrabacteria group	1,164	659	1,824	0.318
+Chlamydia trachomatis	Bacteria	PVC group	11,229	224	443	0.317
+Mycoplasma putrefaciens	Bacteria	Terrabacteria group	15,477	149	366	0.315
+Orientia tsutsugamushi	Bacteria	Proteobacteria	1,055	183	370	0.311
+Brucella abortus	Bacteria	Proteobacteria	4,826	444	1,001	0.31
+Streptococcus agalactiae	Bacteria	Terrabacteria group	7,335	268	353	0.308
+Staphylococcus epidermidis M23864W1	Bacteria	Terrabacteria group	12,643	460	696	0.307
+Bacillus sp. 2A57CT2	Bacteria	Terrabacteria group	5,189	427	832	0.307
+Streptococcus sanguinis ATCC49296	Bacteria	Terrabacteria group	2,991	342	559	0.306
+Enterobacter cloacae NCTC9394	Bacteria	Proteobacteria	4,436	476	668	0.306
+Streptomyces sp. C	Bacteria	Terrabacteria group	1,027	680	1,348	0.305
+Streptococcus sp. F0418	Bacteria	Terrabacteria group	99,893	192	203	0.303
+Chlamydophila psittaci	Bacteria	PVC group	1,816	339	569	0.302
+Vibrio harveyi	Bacteria	Proteobacteria	1,458	642	1,296	0.301
+Propionibacterium acnes HL037PA2	Bacteria	Terrabacteria group	4,710	389	524	0.301
+Yersinia enterocolitica	Bacteria	Proteobacteria	3,646	718	1,213	0.297
+Clostridium difficile	Bacteria	Terrabacteria group	7,728	475	739	0.295
+Microcystis aeruginosa	Bacteria	Terrabacteria group	1,451	418	799	0.294
+Streptococcus mitis ATCC6249	Bacteria	Terrabacteria group	1,684	329	504	0.292
+Paenibacillus sp. HGF7	Bacteria	Terrabacteria group	1,986	468	807	0.292
+Mycobacterium avium	Bacteria	Terrabacteria group	4,755	369	893	0.29
+Mycobacterium tuberculosis H37Rv	Bacteria	Terrabacteria group	45,016	511	932	0.284
+Thermotoga maritima	Bacteria	Thermotogae	1,108	288	316	0.283
+Francisella tularensis tularensis	Bacteria	Proteobacteria	3,151	261	368	0.28
+Sulfolobus tokodaii	Archaea	TACK group	2,145	257	388	0.279
+Acinetobacter sp. ATCC27244	Bacteria	Proteobacteria	1,351	393	731	0.274
+Streptococcus mitis F0392	Bacteria	Terrabacteria group	1,684	259	292	0.272
+Enterobacteriaceae bacterium	Bacteria	Proteobacteria	374,291	662	1,121	0.271
+Haemophilus influenzae	Bacteria	Proteobacteria	13,238	356	660	0.267
+Anaerococcus tetradius	Bacteria	Terrabacteria group	1,334	244	267	0.264
+Streptococcus mitis SK321	Bacteria	Terrabacteria group	1,684	215	215	0.26
+Corynebacterium glutamicum	Bacteria	Terrabacteria group	1,299	519	615	0.258
+Clostridium sp. 7243FAA	Bacteria	Terrabacteria group	1,247	182	176	0.255
+Bartonella henselae	Bacteria	Proteobacteria	1,231	208	318	0.245
+Moraxella catarrhalis	Bacteria	Proteobacteria	1,868	286	316	0.222
